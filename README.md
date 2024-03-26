@@ -1,2 +1,2 @@
-# algorithms-
+# algorithms
 repository of studied algorithms
